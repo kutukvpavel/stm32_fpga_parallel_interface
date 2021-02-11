@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "E:\\Doc\\Паша\\Программирование\\arduino\\hardware\\Arduino_STM32\\STM32F1\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Arduino_STM32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\xpack-arm-none-eabi-gcc\\9.2.1-1.1\\lib\\gcc\\arm-none-eabi\\9.2.1\\include",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\xpack-arm-none-eabi-gcc\\9.2.1-1.1\\arm-none-eabi\\include\\c++\\9.2.1\\**",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\xpack-arm-none-eabi-gcc\\9.2.1-1.1\\arm-none-eabi\\include",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\stm32",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\stm32\\LL",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\stm32\\usb",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\system\\Middlewares\\ST\\STM32_USB_Device_Library\\Core\\Inc",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\stm32\\usb/**",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino",
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\variants\\Generic_F103Cx",
+                "C:\\arduino-1.8.5\\hardware\\arduino\\avr\\libraries\\**",
+                "E:\\Doc\\Паша\\Программирование\\arduino\\libraries\\**",
+                "C:\\arduino-1.8.5\\libraries\\**"
+            ],
+            "defines": [
+                "__GNUC__",
+                "ARDUINO",
+                "STM32",
+                "ARDUINO_ARCH_STM32F1",
+                "USBD_USE_CDC",
+                "USBCON"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-arm",
+            "browse": {
+                "path": []
+            },
+            "forcedInclude": [
+                "C:\\Users\\Павел\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.9.0\\cores\\arduino\\Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
